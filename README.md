@@ -4,16 +4,16 @@ A Python package to validate LaTeX expressions, usable as a command-line tool or
 
 ## Installation
 
-Install using `uv` or `pip`:
+Install directly from GitHub using `uv` or `pip`:
 
 ```bash
-uv pip install latex-validator
+uv pip install git+https://github.com/sjvrensburg/latex-validator.git
 ```
 
 Or with `pip`:
 
 ```bash
-pip install latex-validator
+pip install git+https://github.com/sjvrensburg/latex-validator.git
 ```
 
 ## Usage
